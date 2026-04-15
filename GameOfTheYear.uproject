@@ -3,11 +3,10 @@
 	"EngineAssociation": "4.27",
 	"Category": "",
 	"Description": "",
-	"Modules": [
+	"Plugins": [
 		{
-			"Name": "GameOfTheYear",
-			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"Name": "Paper2D",
+			"Enabled": true
 		}
 	]
 }
